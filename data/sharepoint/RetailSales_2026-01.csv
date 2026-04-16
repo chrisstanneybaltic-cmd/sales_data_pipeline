@@ -1,0 +1,121 @@
+report_month,country,dealer_id,dealer_name,model,powertrain,units_sold,revenue_local,currency
+2026-01,UK,UK003,Birmingham Auto,Range Rover Sport,BEV,22,1660846,GBP
+2026-01,US,US102,Chicago Elite,Range Rover Sport,BEV,8,500304,USD
+2026-01,Germany,DE011,Munich Motors,Discovery Sport,BEV,9,559890,EUR
+2026-01,US,US102,Chicago Elite,Range Rover Sport,ICE,25,2282000,USD
+2026-01,US,US100,New York Prestige,Discovery Sport,ICE,17,954822,USD
+2026-01,UK,UK003,Birmingham Auto,Defender 110,ICE,22,1476794,GBP
+2026-01,US,US101,LA Luxury,Defender 110,PHEV,28,2583000,USD
+2026-01,UK,UK003,Birmingham Auto,Defender 110,PHEV,15,865155,GBP
+2026-01,Germany,DE011,Munich Motors,Range Rover Sport,BEV,24,1143024,EUR
+2026-01,UK,UK002,Manchester Central,Defender 110,PHEV,19,1143021,GBP
+2026-01,US,US100,New York Prestige,Range Rover Sport,ICE,30,2482770,USD
+2026-01,US,US102,Chicago Elite,Range Rover Sport,ICE,28,2500988,USD
+2026-01,Germany,DE012,Hamburg Cars,Defender 110,PHEV,28,2098124,EUR
+2026-01,UK,UK003,Birmingham Auto,Range Rover Sport,PHEV,11,889779,GBP
+2026-01,UK,UK003,Birmingham Auto,Discovery Sport,PHEV,29,1939462,GBP
+2026-01,UK,UK001,London West,Defender 110,BEV,16,1515616,GBP
+2026-01,US,US101,LA Luxury,Defender 110,BEV,12,784920,USD
+2026-01,US,US100,New York Prestige,Range Rover Sport,BEV,23,2054912,USD
+2026-01,Germany,DE010,Berlin Auto,Discovery Sport,PHEV,9,821421,EUR
+2026-01,US,US102,Chicago Elite,Range Rover Sport,ICE,12,1034244,USD
+2026-01,US,US102,Chicago Elite,Range Rover Sport,ICE,12,1074468,USD
+2026-01,Germany,DE011,Munich Motors,Defender 110,PHEV,10,935870,EUR
+2026-01,UK,UK002,Manchester Central,Range Rover Sport,ICE,19,1584163,GBP
+2026-01,UK,UK001,London West,Range Rover Sport,PHEV,25,1815425,GBP
+2026-01,Germany,DE012,Hamburg Cars,Defender 110,BEV,27,1752435,EUR
+2026-01,US,US101,LA Luxury,Discovery Sport,BEV,16,973136,USD
+2026-01,UK,UK002,Manchester Central,Range Rover Sport,ICE,8,504224,GBP
+2026-01,US,US100,New York Prestige,Discovery Sport,BEV,24,1894800,USD
+2026-01,US,US101,LA Luxury,Defender 110,BEV,16,1259200,USD
+2026-01,UK,UK002,Manchester Central,Defender 110,BEV,26,2145702,GBP
+2026-01,UK,UK002,Manchester Central,Range Rover Sport,PHEV,10,746840,GBP
+2026-01,Germany,DE012,Hamburg Cars,Defender 110,BEV,26,1930552,EUR
+2026-01,Germany,DE011,Munich Motors,Defender 110,ICE,15,1194585,EUR
+2026-01,US,US101,LA Luxury,Range Rover Sport,PHEV,7,496517,USD
+2026-01,UK,UK001,London West,Range Rover Sport,BEV,13,1151995,GBP
+2026-01,Germany,DE010,Berlin Auto,Range Rover Sport,PHEV,13,776724,EUR
+2026-01,UK,UK003,Birmingham Auto,Range Rover Sport,BEV,22,1181444,GBP
+2026-01,Germany,DE011,Munich Motors,Range Rover Sport,ICE,11,611094,EUR
+2026-01,Germany,DE010,Berlin Auto,Range Rover Sport,ICE,13,830349,EUR
+2026-01,Germany,DE011,Munich Motors,Defender 110,ICE,30,2191950,EUR
+2026-01,Germany,DE011,Munich Motors,Defender 110,PHEV,15,1421850,EUR
+2026-01,UK,UK001,London West,Range Rover Sport,BEV,29,1853506,GBP
+2026-01,UK,UK001,London West,Range Rover Sport,ICE,11,743523,GBP
+2026-01,US,US102,Chicago Elite,Discovery Sport,ICE,7,479626,USD
+2026-01,Germany,DE012,Hamburg Cars,Range Rover Sport,BEV,13,1178879,EUR
+2026-01,UK,UK003,Birmingham Auto,Defender 110,ICE,19,1630390,GBP
+2026-01,UK,UK001,London West,Discovery Sport,PHEV,28,1884428,GBP
+2026-01,US,US101,LA Luxury,Defender 110,ICE,17,1253461,USD
+2026-01,UK,UK002,Manchester Central,Defender 110,PHEV,17,810951,GBP
+2026-01,UK,UK002,Manchester Central,Range Rover Sport,PHEV,30,1433190,GBP
+2026-01,UK,UK003,Birmingham Auto,Discovery Sport,PHEV,11,557590,GBP
+2026-01,US,US102,Chicago Elite,Defender 110,ICE,27,1537893,USD
+2026-01,UK,UK002,Manchester Central,Range Rover Sport,ICE,5,398605,GBP
+2026-01,Germany,DE010,Berlin Auto,Defender 110,BEV,12,826152,EUR
+2026-01,Germany,DE010,Berlin Auto,Defender 110,BEV,10,805950,EUR
+2026-01,US,US102,Chicago Elite,Defender 110,BEV,23,1200531,USD
+2026-01,Germany,DE011,Munich Motors,Discovery Sport,ICE,9,570960,EUR
+2026-01,UK,UK001,London West,Range Rover Sport,ICE,21,1444065,GBP
+2026-01,Germany,DE010,Berlin Auto,Discovery Sport,BEV,26,1773278,EUR
+2026-01,UK,UK002,Manchester Central,Defender 110,ICE,17,1086589,GBP
+2026-01,UK,UK002,Manchester Central,Range Rover Sport,PHEV,14,982464,GBP
+2026-01,Germany,DE010,Berlin Auto,Defender 110,PHEV,29,1559765,EUR
+2026-01,UK,UK001,London West,Defender 110,PHEV,30,2752890,GBP
+2026-01,US,US101,LA Luxury,Defender 110,ICE,19,1176480,USD
+2026-01,Germany,DE010,Berlin Auto,Defender 110,PHEV,16,842704,EUR
+2026-01,US,US101,LA Luxury,Range Rover Sport,PHEV,15,1194270,USD
+2026-01,Germany,DE011,Munich Motors,Range Rover Sport,PHEV,30,1849980,EUR
+2026-01,Germany,DE011,Munich Motors,Discovery Sport,BEV,29,1926122,EUR
+2026-01,Germany,DE011,Munich Motors,Discovery Sport,BEV,8,542008,EUR
+2026-01,US,US100,New York Prestige,Range Rover Sport,PHEV,10,463290,USD
+2026-01,UK,UK002,Manchester Central,Discovery Sport,ICE,5,260395,GBP
+2026-01,US,US102,Chicago Elite,Discovery Sport,ICE,10,488090,USD
+2026-01,UK,UK002,Manchester Central,Range Rover Sport,ICE,22,1904320,GBP
+2026-01,UK,UK001,London West,Range Rover Sport,PHEV,16,789040,GBP
+2026-01,UK,UK003,Birmingham Auto,Discovery Sport,PHEV,18,1181556,GBP
+2026-01,UK,UK002,Manchester Central,Range Rover Sport,PHEV,19,1533794,GBP
+2026-01,UK,UK002,Manchester Central,Defender 110,ICE,27,1882413,GBP
+2026-01,UK,UK001,London West,Range Rover Sport,PHEV,9,735696,GBP
+2026-01,US,US101,LA Luxury,Defender 110,ICE,12,631740,USD
+2026-01,US,US102,Chicago Elite,Discovery Sport,PHEV,27,1979721,USD
+2026-01,US,US102,Chicago Elite,Defender 110,ICE,24,1964616,USD
+2026-01,US,US102,Chicago Elite,Discovery Sport,BEV,15,924495,USD
+2026-01,Germany,DE010,Berlin Auto,Range Rover Sport,BEV,24,2267592,EUR
+2026-01,UK,UK001,London West,Discovery Sport,ICE,5,461185,GBP
+2026-01,US,US102,Chicago Elite,Defender 110,BEV,27,1224315,USD
+2026-01,US,US100,New York Prestige,Range Rover Sport,ICE,20,1179640,USD
+2026-01,Germany,DE012,Hamburg Cars,Defender 110,PHEV,9,695637,EUR
+2026-01,Germany,DE012,Hamburg Cars,Range Rover Sport,PHEV,21,1469160,EUR
+2026-01,Germany,DE012,Hamburg Cars,Discovery Sport,BEV,21,1971480,EUR
+2026-01,US,US101,LA Luxury,Defender 110,ICE,9,511164,USD
+2026-01,US,US100,New York Prestige,Discovery Sport,BEV,11,691394,USD
+2026-01,Germany,DE011,Munich Motors,Range Rover Sport,BEV,29,1729212,EUR
+2026-01,UK,UK001,London West,Range Rover Sport,BEV,28,1895936,GBP
+2026-01,UK,UK002,Manchester Central,Defender 110,BEV,20,1133680,GBP
+2026-01,UK,UK002,Manchester Central,Range Rover Sport,BEV,25,1274650,GBP
+2026-01,Germany,DE011,Munich Motors,Discovery Sport,ICE,10,584320,EUR
+2026-01,UK,UK002,Manchester Central,Defender 110,PHEV,16,986720,GBP
+2026-01,US,US100,New York Prestige,Defender 110,BEV,15,1374810,USD
+2026-01,US,US101,LA Luxury,Defender 110,BEV,21,1907241,USD
+2026-01,US,US102,Chicago Elite,Range Rover Sport,PHEV,5,452945,USD
+2026-01,Germany,DE010,Berlin Auto,Discovery Sport,ICE,28,2487072,EUR
+2026-01,UK,UK002,Manchester Central,Discovery Sport,ICE,21,1396332,GBP
+2026-01,Germany,DE012,Hamburg Cars,Range Rover Sport,ICE,25,2107650,EUR
+2026-01,US,US102,Chicago Elite,Discovery Sport,ICE,24,1214496,USD
+2026-01,Germany,DE012,Hamburg Cars,Discovery Sport,PHEV,6,378900,EUR
+2026-01,Germany,DE012,Hamburg Cars,Defender 110,ICE,23,1658599,EUR
+2026-01,US,US101,LA Luxury,Range Rover Sport,PHEV,28,2033584,USD
+2026-01,US,US101,LA Luxury,Discovery Sport,PHEV,17,1428544,USD
+2026-01,UK,UK001,London West,Range Rover Sport,BEV,16,1370976,GBP
+2026-01,US,US100,New York Prestige,Range Rover Sport,PHEV,14,1057518,USD
+2026-01,Germany,DE011,Munich Motors,Discovery Sport,PHEV,21,1945167,EUR
+2026-01,Germany,DE010,Berlin Auto,Discovery Sport,ICE,6,447510,EUR
+2026-01,US,US101,LA Luxury,Range Rover Sport,PHEV,28,2477440,USD
+2026-01,UK,UK003,Birmingham Auto,Discovery Sport,BEV,30,2707680,GBP
+2026-01,UK,UK001,London West,Range Rover Sport,BEV,5,298445,GBP
+2026-01,UK,UK001,London West,Discovery Sport,ICE,18,1506168,GBP
+2026-01,Germany,DE010,Berlin Auto,Range Rover Sport,BEV,17,794104,EUR
+2026-01,Germany,DE012,Hamburg Cars,Defender 110,ICE,20,1745320,EUR
+2026-01,US,US100,New York Prestige,Range Rover Sport,ICE,14,1069768,USD
+2026-01,UK,UK001,London West,Range Rover Sport,BEV,19,941906,GBP

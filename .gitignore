@@ -1,0 +1,11 @@
+# Virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Generated data outputs
+data/raw/
+data/processed/

@@ -1,0 +1,151 @@
+order_id,order_date,country,dealer_id,model,trim,powertrain,optional_features,final_price_local,currency,customer_type
+ORD0001,2026-01-04,Germany,DE010,Range Rover Sport,HSE,ICE,Black Pack,83979,EUR,Private
+ORD0002,2026-01-17,Germany,DE010,Discovery Sport,HSE,BEV,Panoramic Roof; Black Pack,66672,EUR,Fleet
+ORD0003,2026-01-27,Germany,DE012,Range Rover Sport,Autobiography,PHEV,Panoramic Roof; Tech Pack,66872,EUR,Business
+ORD0004,2026-01-17,Germany,DE011,Range Rover Sport,HSE,ICE,Black Pack; Tow Pack,56595,EUR,Private
+ORD0005,2026-01-11,Germany,DE011,Range Rover Sport,SE,ICE,Panoramic Roof; Winter Pack; Black Pack,54721,EUR,Fleet
+ORD0006,2026-01-30,UK,UK002,Discovery Sport,Autobiography,PHEV,Panoramic Roof; Winter Pack,90709,GBP,Fleet
+ORD0007,2026-01-29,UK,UK002,Range Rover Sport,HSE,ICE,Black Pack; Winter Pack,88209,GBP,Fleet
+ORD0008,2026-01-25,US,US100,Defender 110,HSE,PHEV,Black Pack; Tech Pack; Winter Pack,56933,USD,Fleet
+ORD0009,2026-01-06,US,US100,Discovery Sport,SE,BEV,Winter Pack,62653,USD,Private
+ORD0010,2026-01-04,Germany,DE011,Discovery Sport,SE,ICE,Winter Pack,90571,EUR,Business
+ORD0011,2026-01-12,US,US102,Defender 110,SE,PHEV,Black Pack,84491,USD,Business
+ORD0012,2026-01-30,US,US100,Discovery Sport,SE,ICE,Black Pack,73659,USD,Fleet
+ORD0013,2026-01-05,UK,UK001,Range Rover Sport,SE,BEV,Tow Pack; Panoramic Roof,56973,GBP,Fleet
+ORD0014,2026-01-02,Germany,DE010,Defender 110,Autobiography,BEV,Winter Pack; Black Pack; Panoramic Roof,74887,EUR,Business
+ORD0015,2026-01-14,US,US101,Range Rover Sport,Autobiography,BEV,Black Pack; Panoramic Roof,75348,USD,Business
+ORD0016,2026-01-04,UK,UK002,Discovery Sport,HSE,BEV,Black Pack; Panoramic Roof,65155,GBP,Fleet
+ORD0017,2026-01-30,UK,UK001,Range Rover Sport,SE,ICE,Tow Pack; Tech Pack,75795,GBP,Fleet
+ORD0018,2026-01-25,UK,UK001,Discovery Sport,Autobiography,BEV,Panoramic Roof,51747,GBP,Fleet
+ORD0019,2026-01-12,UK,UK003,Discovery Sport,SE,ICE,Winter Pack; Panoramic Roof,52175,GBP,Business
+ORD0020,2026-01-22,Germany,DE012,Discovery Sport,HSE,BEV,Tow Pack,70465,EUR,Fleet
+ORD0021,2026-01-16,UK,UK001,Range Rover Sport,HSE,ICE,Tow Pack; Black Pack,86076,GBP,Fleet
+ORD0022,2026-01-12,UK,UK001,Discovery Sport,SE,ICE,Tow Pack; Tech Pack,83332,GBP,Private
+ORD0023,2026-01-04,US,US101,Defender 110,Autobiography,PHEV,Tow Pack,69465,USD,Business
+ORD0024,2026-01-28,US,US101,Discovery Sport,Autobiography,BEV,Black Pack,51860,USD,Business
+ORD0025,2026-01-11,Germany,DE011,Defender 110,HSE,BEV,Tech Pack; Winter Pack,79100,EUR,Business
+ORD0026,2026-01-11,Germany,DE010,Discovery Sport,SE,PHEV,Panoramic Roof,82666,EUR,Business
+ORD0027,2026-01-17,UK,UK002,Range Rover Sport,Autobiography,BEV,Panoramic Roof; Black Pack; Tech Pack,72680,GBP,Private
+ORD0028,2026-01-28,Germany,DE011,Defender 110,Autobiography,ICE,Tow Pack,96414,EUR,Fleet
+ORD0029,2026-01-27,US,US101,Defender 110,SE,PHEV,Winter Pack; Tech Pack; Black Pack,83847,USD,Fleet
+ORD0030,2026-01-03,UK,UK001,Defender 110,Autobiography,PHEV,Panoramic Roof; Black Pack,59003,GBP,Business
+ORD0031,2026-01-29,UK,UK002,Range Rover Sport,Autobiography,ICE,Panoramic Roof; Tech Pack; Tow Pack,76096,GBP,Business
+ORD0032,2026-01-23,UK,UK001,Defender 110,Autobiography,ICE,Tech Pack; Panoramic Roof,51534,GBP,Business
+ORD0033,2026-01-01,Germany,DE012,Range Rover Sport,Autobiography,PHEV,Panoramic Roof; Tow Pack,90909,EUR,Business
+ORD0034,2026-01-21,Germany,DE012,Discovery Sport,Autobiography,BEV,Black Pack,67151,EUR,Fleet
+ORD0035,2026-01-26,Germany,DE012,Defender 110,Autobiography,ICE,Tow Pack,56206,EUR,Private
+ORD0036,2026-01-02,Germany,DE012,Discovery Sport,SE,PHEV,Winter Pack; Tow Pack; Black Pack,67116,EUR,Fleet
+ORD0037,2026-01-08,Germany,DE010,Discovery Sport,Autobiography,BEV,Tech Pack,92818,EUR,Fleet
+ORD0038,2026-01-09,UK,UK002,Range Rover Sport,SE,ICE,Tech Pack,84011,GBP,Fleet
+ORD0039,2026-01-06,Germany,DE010,Range Rover Sport,SE,BEV,Tow Pack,74483,EUR,Business
+ORD0040,2026-01-05,UK,UK002,Range Rover Sport,SE,ICE,Panoramic Roof; Tech Pack,97700,GBP,Private
+ORD0041,2026-01-27,US,US102,Defender 110,HSE,ICE,Black Pack; Winter Pack,87107,USD,Business
+ORD0042,2026-01-25,Germany,DE010,Range Rover Sport,HSE,BEV,Tech Pack; Tow Pack; Panoramic Roof,67417,EUR,Private
+ORD0043,2026-01-16,US,US102,Range Rover Sport,HSE,BEV,Tow Pack; Panoramic Roof; Tech Pack,97057,USD,Fleet
+ORD0044,2026-01-31,UK,UK003,Discovery Sport,SE,ICE,Black Pack; Winter Pack,83566,GBP,Business
+ORD0045,2026-01-06,US,US102,Range Rover Sport,SE,PHEV,Tow Pack,81704,USD,Private
+ORD0046,2026-01-23,Germany,DE012,Range Rover Sport,SE,ICE,Tech Pack; Black Pack,98214,EUR,Business
+ORD0047,2026-01-09,Germany,DE011,Discovery Sport,SE,ICE,Winter Pack; Black Pack; Tech Pack,74006,EUR,Fleet
+ORD0048,2026-01-03,Germany,DE011,Range Rover Sport,Autobiography,PHEV,Tech Pack; Tow Pack; Winter Pack,97578,EUR,Fleet
+ORD0049,2026-01-10,UK,UK001,Discovery Sport,HSE,BEV,Tech Pack; Black Pack; Tow Pack,66260,GBP,Fleet
+ORD0050,2026-01-25,Germany,DE012,Range Rover Sport,SE,PHEV,Tow Pack,78813,EUR,Business
+ORD0051,2026-01-07,US,US101,Defender 110,SE,ICE,Winter Pack,98745,USD,Business
+ORD0052,2026-01-27,Germany,DE011,Defender 110,HSE,BEV,Tow Pack; Winter Pack; Tech Pack,84703,EUR,Fleet
+ORD0053,2026-01-22,UK,UK001,Discovery Sport,Autobiography,BEV,Panoramic Roof; Tech Pack; Winter Pack,85863,GBP,Private
+ORD0054,2026-01-02,US,US102,Discovery Sport,HSE,PHEV,Panoramic Roof,78757,USD,Fleet
+ORD0055,2026-01-15,US,US100,Range Rover Sport,HSE,PHEV,Black Pack; Winter Pack,74397,USD,Private
+ORD0056,2026-01-25,US,US100,Discovery Sport,HSE,ICE,Panoramic Roof,93689,USD,Private
+ORD0057,2026-01-28,UK,UK001,Defender 110,HSE,ICE,Black Pack; Tech Pack; Panoramic Roof,76801,GBP,Business
+ORD0058,2026-01-08,Germany,DE011,Defender 110,SE,PHEV,Tow Pack; Panoramic Roof,69472,EUR,Fleet
+ORD0059,2026-01-03,UK,UK002,Discovery Sport,HSE,ICE,Panoramic Roof; Black Pack,73190,GBP,Fleet
+ORD0060,2026-01-21,US,US100,Defender 110,Autobiography,PHEV,Black Pack; Winter Pack; Tow Pack,93609,USD,Business
+ORD0061,2026-01-04,Germany,DE012,Defender 110,Autobiography,PHEV,Black Pack; Tow Pack,58893,EUR,Fleet
+ORD0062,2026-01-09,Germany,DE011,Defender 110,Autobiography,BEV,Tech Pack; Tow Pack; Panoramic Roof,88258,EUR,Fleet
+ORD0063,2026-01-12,Germany,DE011,Range Rover Sport,HSE,PHEV,Winter Pack; Panoramic Roof; Black Pack,97273,EUR,Fleet
+ORD0064,2026-01-12,US,US102,Discovery Sport,SE,BEV,Winter Pack,93184,USD,Fleet
+ORD0065,2026-01-16,Germany,DE010,Range Rover Sport,HSE,ICE,Black Pack,93060,EUR,Fleet
+ORD0066,2026-01-22,UK,UK001,Discovery Sport,HSE,BEV,Tow Pack,50784,GBP,Private
+ORD0067,2026-01-24,UK,UK001,Discovery Sport,Autobiography,PHEV,Winter Pack,74920,GBP,Fleet
+ORD0068,2026-01-10,Germany,DE010,Defender 110,SE,BEV,Panoramic Roof; Tech Pack,61711,EUR,Fleet
+ORD0069,2026-01-07,US,US100,Discovery Sport,HSE,ICE,Winter Pack; Tow Pack,94218,USD,Fleet
+ORD0070,2026-01-27,UK,UK001,Discovery Sport,Autobiography,ICE,Black Pack,84687,GBP,Private
+ORD0071,2026-01-21,Germany,DE011,Defender 110,SE,BEV,Black Pack,96752,EUR,Business
+ORD0072,2026-01-05,UK,UK002,Discovery Sport,SE,BEV,Black Pack; Winter Pack,65444,GBP,Private
+ORD0073,2026-01-29,Germany,DE012,Range Rover Sport,SE,ICE,Panoramic Roof,64826,EUR,Private
+ORD0074,2026-01-09,Germany,DE012,Defender 110,Autobiography,ICE,Winter Pack; Panoramic Roof; Tow Pack,86689,EUR,Business
+ORD0075,2026-01-22,Germany,DE010,Defender 110,SE,ICE,Tow Pack; Panoramic Roof; Black Pack,70349,EUR,Business
+ORD0076,2026-01-23,UK,UK002,Defender 110,Autobiography,PHEV,Black Pack; Tech Pack; Panoramic Roof,74974,GBP,Private
+ORD0077,2026-01-08,US,US102,Range Rover Sport,Autobiography,ICE,Winter Pack; Tow Pack; Black Pack,77876,USD,Fleet
+ORD0078,2026-01-12,Germany,DE012,Discovery Sport,Autobiography,BEV,Tech Pack; Black Pack,67222,EUR,Business
+ORD0079,2026-01-21,Germany,DE011,Range Rover Sport,Autobiography,PHEV,Tow Pack; Winter Pack; Tech Pack,93226,EUR,Private
+ORD0080,2026-01-13,UK,UK002,Range Rover Sport,SE,ICE,Tech Pack,60340,GBP,Private
+ORD0081,2026-01-30,UK,UK001,Discovery Sport,HSE,ICE,Winter Pack; Tow Pack; Black Pack,97481,GBP,Private
+ORD0082,2026-01-28,UK,UK003,Discovery Sport,Autobiography,BEV,Black Pack; Tech Pack,96139,GBP,Business
+ORD0083,2026-01-21,UK,UK001,Range Rover Sport,Autobiography,ICE,Tech Pack; Winter Pack,54295,GBP,Private
+ORD0084,2026-01-18,US,US100,Range Rover Sport,HSE,PHEV,Winter Pack,54807,USD,Business
+ORD0085,2026-01-11,Germany,DE010,Discovery Sport,HSE,PHEV,Panoramic Roof,97105,EUR,Private
+ORD0086,2026-01-10,Germany,DE011,Discovery Sport,HSE,BEV,Black Pack,96423,EUR,Fleet
+ORD0087,2026-01-26,Germany,DE011,Range Rover Sport,Autobiography,ICE,Winter Pack; Tow Pack,67097,EUR,Private
+ORD0088,2026-01-05,Germany,DE012,Range Rover Sport,SE,ICE,Tech Pack; Black Pack,95676,EUR,Fleet
+ORD0089,2026-01-13,Germany,DE012,Range Rover Sport,Autobiography,PHEV,Tow Pack,77543,EUR,Private
+ORD0090,2026-01-08,Germany,DE010,Discovery Sport,SE,BEV,Winter Pack; Tech Pack; Black Pack,62334,EUR,Private
+ORD0091,2026-01-21,US,US102,Defender 110,HSE,ICE,Tech Pack; Panoramic Roof; Winter Pack,55587,USD,Business
+ORD0092,2026-01-07,US,US102,Defender 110,SE,ICE,Panoramic Roof; Tech Pack,60132,USD,Private
+ORD0093,2026-01-11,US,US102,Defender 110,Autobiography,ICE,Black Pack,61720,USD,Business
+ORD0094,2026-01-27,UK,UK001,Discovery Sport,SE,ICE,Panoramic Roof; Black Pack; Winter Pack,63145,GBP,Fleet
+ORD0095,2026-01-16,UK,UK001,Range Rover Sport,SE,ICE,Tech Pack; Winter Pack; Black Pack,51954,GBP,Fleet
+ORD0096,2026-01-07,US,US102,Range Rover Sport,HSE,BEV,Tech Pack; Panoramic Roof; Black Pack,69991,USD,Fleet
+ORD0097,2026-01-03,UK,UK002,Defender 110,SE,ICE,Tow Pack; Black Pack; Winter Pack,91767,GBP,Business
+ORD0098,2026-01-25,Germany,DE012,Discovery Sport,HSE,PHEV,Tech Pack; Black Pack,62333,EUR,Fleet
+ORD0099,2026-01-03,Germany,DE012,Discovery Sport,SE,BEV,Black Pack; Tow Pack; Panoramic Roof,76641,EUR,Business
+ORD0100,2026-01-26,US,US102,Defender 110,SE,BEV,Tech Pack; Tow Pack; Panoramic Roof,92038,USD,Business
+ORD0101,2026-01-20,Germany,DE010,Discovery Sport,Autobiography,BEV,Tech Pack,51234,EUR,Fleet
+ORD0102,2026-01-23,UK,UK002,Discovery Sport,SE,ICE,Tow Pack; Tech Pack,92265,GBP,Business
+ORD0103,2026-01-11,UK,UK001,Discovery Sport,SE,BEV,Tech Pack,64799,GBP,Private
+ORD0104,2026-01-15,US,US102,Discovery Sport,SE,ICE,Panoramic Roof; Black Pack; Winter Pack,59911,USD,Fleet
+ORD0105,2026-01-01,UK,UK002,Discovery Sport,Autobiography,ICE,Tow Pack,93781,GBP,Business
+ORD0106,2026-01-09,UK,UK002,Range Rover Sport,SE,PHEV,Winter Pack; Tow Pack; Tech Pack,98524,GBP,Fleet
+ORD0107,2026-01-04,US,US100,Range Rover Sport,HSE,PHEV,Tech Pack; Black Pack,86724,USD,Business
+ORD0108,2026-01-14,Germany,DE012,Discovery Sport,Autobiography,BEV,Winter Pack; Tow Pack; Tech Pack,56704,EUR,Private
+ORD0109,2026-01-12,UK,UK002,Defender 110,Autobiography,ICE,Tech Pack,55489,GBP,Fleet
+ORD0110,2026-01-11,Germany,DE010,Range Rover Sport,SE,ICE,Tow Pack,95758,EUR,Business
+ORD0111,2026-01-17,Germany,DE011,Range Rover Sport,HSE,BEV,Winter Pack; Tow Pack,88016,EUR,Private
+ORD0112,2026-01-06,UK,UK002,Defender 110,Autobiography,ICE,Tow Pack; Panoramic Roof; Winter Pack,98861,GBP,Private
+ORD0113,2026-01-09,US,US100,Range Rover Sport,Autobiography,ICE,Panoramic Roof; Tech Pack; Winter Pack,83437,USD,Private
+ORD0114,2026-01-22,US,US101,Discovery Sport,HSE,PHEV,Winter Pack,80349,USD,Business
+ORD0115,2026-01-19,Germany,DE011,Range Rover Sport,SE,PHEV,Panoramic Roof; Winter Pack; Tech Pack,58411,EUR,Business
+ORD0116,2026-01-14,US,US101,Discovery Sport,HSE,PHEV,Tech Pack; Tow Pack,57767,USD,Fleet
+ORD0117,2026-01-08,Germany,DE012,Range Rover Sport,HSE,BEV,Tow Pack,71871,EUR,Fleet
+ORD0118,2026-01-30,UK,UK001,Defender 110,Autobiography,BEV,Panoramic Roof; Winter Pack,67764,GBP,Business
+ORD0119,2026-01-29,UK,UK002,Discovery Sport,HSE,ICE,Tow Pack,79791,GBP,Fleet
+ORD0120,2026-01-14,Germany,DE011,Defender 110,SE,ICE,Winter Pack; Tech Pack; Tow Pack,89188,EUR,Fleet
+ORD0121,2026-01-25,US,US100,Defender 110,HSE,BEV,Tech Pack; Winter Pack,92957,USD,Private
+ORD0122,2026-01-15,Germany,DE010,Range Rover Sport,HSE,PHEV,Panoramic Roof; Tow Pack; Winter Pack,51138,EUR,Business
+ORD0123,2026-01-02,UK,UK002,Defender 110,Autobiography,PHEV,Tow Pack; Black Pack; Panoramic Roof,62800,GBP,Business
+ORD0124,2026-01-28,Germany,DE011,Range Rover Sport,HSE,BEV,Panoramic Roof; Winter Pack,74020,EUR,Private
+ORD0125,2026-01-21,Germany,DE011,Discovery Sport,HSE,PHEV,Winter Pack,97172,EUR,Business
+ORD0126,2026-01-18,UK,UK003,Discovery Sport,HSE,PHEV,Winter Pack; Tow Pack,75769,GBP,Fleet
+ORD0127,2026-01-25,US,US102,Defender 110,SE,ICE,Panoramic Roof; Tow Pack,94728,USD,Business
+ORD0128,2026-01-27,US,US102,Range Rover Sport,SE,ICE,Black Pack; Tech Pack,68505,USD,Fleet
+ORD0129,2026-01-12,UK,UK003,Range Rover Sport,HSE,ICE,Tech Pack; Winter Pack,75011,GBP,Business
+ORD0130,2026-01-10,Germany,DE010,Defender 110,Autobiography,BEV,Winter Pack; Tech Pack; Tow Pack,56941,EUR,Fleet
+ORD0131,2026-01-30,UK,UK003,Defender 110,SE,BEV,Black Pack,61669,GBP,Private
+ORD0132,2026-01-29,Germany,DE010,Defender 110,Autobiography,PHEV,Winter Pack,53857,EUR,Fleet
+ORD0133,2026-01-06,US,US101,Defender 110,SE,PHEV,Tech Pack,56809,USD,Private
+ORD0134,2026-01-09,UK,UK003,Defender 110,SE,PHEV,Tow Pack; Panoramic Roof; Black Pack,57104,GBP,Private
+ORD0135,2026-01-31,US,US102,Defender 110,SE,BEV,Winter Pack; Tow Pack; Panoramic Roof,95150,USD,Business
+ORD0136,2026-01-13,US,US101,Defender 110,Autobiography,BEV,Tow Pack; Tech Pack,74600,USD,Fleet
+ORD0137,2026-01-29,US,US102,Range Rover Sport,SE,PHEV,Tech Pack,81914,USD,Private
+ORD0138,2026-01-14,Germany,DE012,Discovery Sport,HSE,BEV,Tow Pack,83783,EUR,Private
+ORD0139,2026-01-06,UK,UK003,Discovery Sport,SE,ICE,Panoramic Roof; Winter Pack,71291,GBP,Business
+ORD0140,2026-01-18,US,US102,Discovery Sport,SE,PHEV,Panoramic Roof; Winter Pack,97438,USD,Business
+ORD0141,2026-01-05,US,US101,Range Rover Sport,HSE,PHEV,Panoramic Roof,72939,USD,Private
+ORD0142,2026-01-05,Germany,DE011,Range Rover Sport,Autobiography,ICE,Winter Pack,86668,EUR,Private
+ORD0143,2026-01-07,US,US100,Defender 110,Autobiography,PHEV,Winter Pack; Black Pack; Panoramic Roof,78556,USD,Business
+ORD0144,2026-01-16,UK,UK002,Defender 110,SE,PHEV,Tow Pack; Tech Pack,50397,GBP,Fleet
+ORD0145,2026-01-17,Germany,DE012,Range Rover Sport,SE,ICE,Winter Pack; Panoramic Roof; Tow Pack,58422,EUR,Business
+ORD0146,2026-01-23,UK,UK003,Discovery Sport,SE,BEV,Tech Pack; Winter Pack; Tow Pack,75368,GBP,Private
+ORD0147,2026-01-03,US,US100,Range Rover Sport,SE,BEV,Panoramic Roof; Winter Pack,67067,USD,Fleet
+ORD0148,2026-01-14,US,US100,Range Rover Sport,Autobiography,ICE,Panoramic Roof; Tow Pack,59692,USD,Fleet
+ORD0149,2026-01-21,Germany,DE012,Range Rover Sport,HSE,ICE,Panoramic Roof; Winter Pack; Tow Pack,52088,EUR,Private
+ORD0150,2026-01-24,UK,UK001,Defender 110,Autobiography,ICE,Winter Pack,59470,GBP,Business
